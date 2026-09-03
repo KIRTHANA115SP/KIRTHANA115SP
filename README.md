@@ -4,12 +4,6 @@
 
 <sub>🎓 Software Engineering @ VIT &nbsp;•&nbsp; 🧠 AI/ML &nbsp;•&nbsp; ☁️ Cloud</sub>
 
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F472B6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
-[![Email](https://img.shields.io/badge/-Email-FBBF24?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-
 </div>
 
 <br>
