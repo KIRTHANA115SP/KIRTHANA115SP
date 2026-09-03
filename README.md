@@ -1,36 +1,78 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Kirthana+%E2%9C%A8;AI+%2F+ML+%E2%80%A2+Software+Engineer;Building+ideas+into+systems+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F472B6&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Kirthana+%E2%9C%A8;AI+%2F+ML+%E2%80%A2+Software+Engineer;Learning+by+building+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <sub>🎓 Software Engineering @ VIT &nbsp;•&nbsp; 🧠 AI/ML &nbsp;•&nbsp; ☁️ Cloud</sub>
 
+<br><br>
 </div>
 
 <br>
-
-### 🌸 about me
-
-I love turning ideas into intelligent, real-world systems — currently exploring RAG pipelines, computer vision, and everything in between. Learning by building, one experiment at a time.
-
-<br>
-
-<br>
-
-### 🧸 tech i reach for
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-F472B6?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-A78BFA?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-60A5FA?style=flat-square&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FBBF24?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-34D399?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-F87171?style=flat-square&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-38BDF8?style=flat-square&logo=fastapi&logoColor=white)
-
-<sub>+ NLP · RAG · LLMs · ChromaDB · OOP · Design Patterns</sub>
+```
+ ┌─────────────────────────────────────┐
+   turning ideas into intelligent,
+   real-world systems — one
+   experiment at a time 🌸
+ └─────────────────────────────────────┘
+```
 
 </div>
+
+<br>
+
+### 🗺️ my stack, mapped
+
+<table align="center">
+<tr><td>
+
+**🧠 AI / ML**
+<br><sub>Python · ML Pipelines · NLP · RAG · LLM · Scikit-learn · TensorFlow · YOLOv8 · OpenCV</sub>
+
+**📊 Data & Analytics**
+<br><sub>Pandas · NumPy · Hadoop basics · Streamlit · Power BI · Jupyter · Colab</sub>
+
+**⚙️ Backend & Core**
+<br><sub>FastAPI · MySQL · OOP · SDLC · Data Structures · Design Patterns · Agile</sub>
+
+</td></tr>
+<tr><td>
+
+**🔐 Security & Networking**
+<br><sub>Wireshark · Nmap · TCP/IP · HTTP/HTTPS · Packet Analysis</sub>
+
+**🧪 Evaluation & Engineering**
+<br><sub>Model Benchmarking · Data Preprocessing · Feature Engineering</sub>
+
+**🛠️ Tools & Workflow**
+<br><sub>VS Code · GitHub · Scrum · Automation · API Integration · Debugging</sub>
+
+</td></tr>
+</table>
+
+<br>
+
+<details>
+<summary><b>🌱 full skill breakdown</b></summary>
+<br>
+
+| Category | Skills |
+|---|---|
+| **Languages** | Python · Java · C |
+| **AI / ML** | ML Pipelines, NLP (sentiment analysis, text classification), RAG, LLM, Scikit-learn, TensorFlow basics, YOLOv8, OpenCV |
+| **Framework & Big Data** | Jupyter Notebook, Google Colab, Hadoop (basics), Pandas, NumPy, Streamlit, Power BI |
+| **Core Concepts** | OOP, OS basics, SDLC, Data Structures, Agile, Design Patterns (basics), ML Pipelines |
+| **Visualization** | Streamlit dashboards, Power BI (basic), Matplotlib |
+| **Security & Networking** | Wireshark, Nmap, network/system basics, Packet Analysis, TCP/IP, HTTP/HTTPS |
+| **Data Engineering** | Data Preprocessing, Feature Engineering |
+| **Backend & APIs** | Python, FastAPI (basics), SQL, MySQL |
+| **Evaluation** | Model accuracy measurement, dataset quality assessment, pipeline testing |
+| **Tools & Platforms** | VS Code, PowerPoint, Teams, GitHub, Agile/Scrum |
+| **Automation & Systems** | Workflow Automation, Monitoring, API Integration, Debugging, Documentation |
+
+</details>
 
 <br>
 
