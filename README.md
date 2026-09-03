@@ -1,38 +1,69 @@
 <div align="center">
 
-# Hi 👋, I'm Kirthana
-
-<sub>Software Engineering student skilled in Python, Java, and SQL with strong foundations in AI/ML, RAG, and system design.</sub>
 <br>
-<sub>Experienced in building ML pipelines, RAG-based applications, and FastAPI backend systems. Focused on turning ideas into real, working software.</sub>
 
-<br><br>
+```python
+>>> whoami()
+```
 
-<table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Kirthana+%E2%80%94+Software+Engineer;training+on%3A+AI+%2F+ML+%2B+systems+design;status%3A+shipping+%2C+one+idea+at+a+time" alt="typing" />
+
+<br>
+
+</div>
+
+<table align="center">
+<tr><td>
+
+```python
+class Kirthana:
+    def __init__(self):
+        self.role   = "Software Engineering @ VIT"
+        self.builds = ["RAG apps", "ML pipelines", "APIs"]
+        self.always = "learning by shipping"
+
+    def focus(self):
+        return "AI · ML · Data · Systems"
+```
+
+</td></tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ⟶ the stack, layered like a network
+
+</div>
+
+<table align="center">
 <tr>
-<td align="center" width="220">
+<td align="center" width="150"><b>input</b><br><sub>languages</sub></td>
+<td align="center">→</td>
+<td align="center" width="220"><b>hidden layers</b><br><sub>ml · data · backend</sub></td>
+<td align="center">→</td>
+<td align="center" width="150"><b>output</b><br><sub>what i ship</sub></td>
+</tr>
+<tr>
+<td align="center">
 
-**📦 Repositories**
-
-<img src="https://img.shields.io/github/repos/kirthana115sp?style=flat-square&label=&color=F472B6" /><br>
-<sub>public repos</sub>
-
-</td>
-<td align="center" width="220">
-
-**🎯 Currently Focused On**
-
-AI / ML &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Computer Vision
-<br>
-<sub>building with LLMs</sub>
+Python<br>Java<br>C<br>SQL
 
 </td>
-<td align="center" width="220">
+<td align="center">→</td>
+<td align="center">
 
-**⭐ Stars Earned**
+Scikit-learn · TensorFlow<br>
+RAG · LLMs · NLP · YOLOv8<br>
+Pandas · NumPy · Power BI<br>
+FastAPI · MySQL
 
-<img src="https://img.shields.io/github/stars/kirthana115sp?style=flat-square&label=&color=A78BFA" /><br>
-<sub>across repos</sub>
+</td>
+<td align="center">→</td>
+<td align="center">
+
+ML pipelines<br>RAG apps<br>CV systems<br>dashboards
 
 </td>
 </tr>
@@ -40,16 +71,18 @@ AI / ML &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Computer Vision
 
 <br>
 
-### Languages and Tools
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,fastapi,pandas,tensorflow,opencv,scikitlearn,jupyter,powerbi,git,github,vscode,linux" />
-
-<br><br>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=kirthana115sp&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=380" />
+<sub>🔧 also fluent in: OOP · SDLC · Agile · Wireshark/Nmap · Feature Engineering · Git</sub>
 
 <br><br>
 
-<sub>✨ thanks for stopping by ✨</sub>
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=kirthana115sp&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=380" />
+
+<br><br>
+
+```python
+>>> print("thanks for stopping by 🌱")
+```
 
 </div>
