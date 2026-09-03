@@ -4,64 +4,85 @@
 
 ### Software Engineering · AI/ML · Intelligent Systems
 
-*Building, learning, experimenting — one idea at a time.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+intelligent+data-driven+systems;RAG+%7C+LLMs+%7C+Computer+Vision;Turning+ideas+into+working+software" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 </div>
 
----
+<br>
 
 ## ✦ About Me
 
- Software Engineering student at
-**Vellore Institute of Technology**, interested in building intelligent,
-data-driven and real-world software systems.
+Software Engineering student at **Vellore Institute of Technology**, interested in building intelligent, data-driven and real-world software systems.
 
 My interests sit at the intersection of:
 
-`Artificial Intelligence` · `Machine Learning` · `Software Engineering`
-· `Data Analytics` · `Generative AI` · `Cloud`
+`Artificial Intelligence` · `Machine Learning` · `Software Engineering` · `Data Analytics` · `Generative AI` · `Cloud`
 
-I enjoy understanding how things work, turning ideas into working systems,
-and learning through experimentation.
+I enjoy understanding how things work, turning ideas into working systems, and learning through experimentation.
 
----
+<br>
 
-## 🧠 What I Work With
+## 🧰 What I Work With
 
-### Languages
-`Python` · `Java` · `C` · `SQL`
+<div align="center">
 
-### AI / Machine Learning
-`Scikit-learn` · `TensorFlow` · `NLP` · `RAG` · `LLMs`
-`LangChain` · `ChromaDB` · `YOLOv8` · `OpenCV`
+**Languages**
 
-### Software & Backend
-`FastAPI` · `REST APIs` · `MySQL`
-`OOP` · `Data Structures` · `Design Patterns`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Data & Analytics
-`Pandas` · `NumPy` · `Matplotlib`
-`Streamlit` · `Power BI` · `Jupyter` · `Google Colab`
+**AI / Machine Learning**
 
-### Security & Systems
-`Nmap` · `Wireshark` · `OWASP ZAP`
-`TCP/IP` · `HTTP/HTTPS` · `Packet Analysis`
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Tools & Platforms
-`Git` · `GitHub` · `VS Code` · `AWS`
-`Agile / Scrum` · `Testing` · `Automation`
+`NLP` · `RAG` · `LLMs` · `ChromaDB` · `YOLOv8`
 
----
+**Software & Backend**
 
-## ✦ Currently Exploring
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-```text
-Generative AI
-      ↓
-LLM Applications
-      ↓
-Retrieval-Augmented Generation
-      ↓
-Scalable Intelligent Systems
-      ↓
-Cloud & Software Engineering
+`REST APIs` · `OOP` · `Data Structures` · `Design Patterns`
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kirthana115sp&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthana115sp&layout=compact&hide_border=true&theme=default" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirthana115sp&hide_border=true&theme=default" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!-- Contribution snake animation goes here — see setup note below -->
+<img src="https://raw.githubusercontent.com/kirthana115sp/kirthana115sp/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<!--END_SECTION:waka-->
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Building, learning, experimenting — one idea at a time.*
+
+</div>
